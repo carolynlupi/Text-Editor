@@ -46,7 +46,7 @@ This application is powered by Webpack (HTML-Webpack-Plugin, Babel, and CSS Load
 
 ## Installation
 
-Users can view and utilize the application through the use of the browser by visiting the deployed application at https://jate-text-editor15-e077c2d0ee63.herokuapp.com/.
+Users can view and utilize the application through the use of the browser by visiting the deployed application at (https://glacial-fortress-44365-dc26fbaae169.herokuapp.com)
 
 Viewing the application in the browser will also give users the ability to download the application allowing it to be used offline.
 
