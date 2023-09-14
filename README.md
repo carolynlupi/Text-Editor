@@ -50,7 +50,6 @@ Users can view and utilize the application through the use of the browser by vis
 
 Viewing the application in the browser will also give users the ability to download the application allowing it to be used offline.
 
-To make any further additions, start by cloning the repo in the command line git clone https://github.com/rmessett15/PWA-Text-Editor.git, or forking the repo.
 
 ## Features
 
@@ -58,7 +57,7 @@ Once the application is opened, the IndexedDB will persist any notes added to th
 
 ## Usage Information
 
-Usage of this application is very intuitive, just visit the live URL ([https://jate-text-editor15-e077c2d0ee63.herokuapp.com/](https://glacial-fortress-44365-dc26fbaae169.herokuapp.com/)) and start adding notes right away! Users will also notice an install button in the nav bar allowing for the application to be downloaded and used offline. Saving of notes occurs automatically through the IndexedDB; the only thing required is for the user to click out of the window and notes will be persisted whether using the application online or offline.
+Usage of this application is very intuitive, just visit the live URL ((https://glacial-fortress-44365-dc26fbaae169.herokuapp.com)) and start adding notes right away! Users will also notice an install button in the nav bar allowing for the application to be downloaded and used offline. Saving of notes occurs automatically through the IndexedDB; the only thing required is for the user to click out of the window and notes will be persisted whether using the application online or offline.
 
 ## License
 
